@@ -1,7 +1,5 @@
 # Email-Agent
 
-# Gmail AI Auto-Reply Agent (OOO)
-
 This script reads inbox threads (non-newsletters), drafts a short reply, and:
 - Auto-sends for low-risk emails from trusted domains
 - Saves a Draft for everything else
