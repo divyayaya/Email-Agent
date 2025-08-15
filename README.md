@@ -1,4 +1,4 @@
-# Email-Agent
+# Email Agent
 
 This script reads inbox threads (non-newsletters), drafts a short reply, and:
 - Auto-sends for low-risk emails from trusted domains
